@@ -1,0 +1,73 @@
+# Compiled Java files
+*.class
+*.jar
+*.war
+*.exe
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+*.classpath
+*.project
+.settings/
+.DS_Store
+
+# Build output
+bin/
+build/
+dist/
+target/
+out/
+
+# Runtime files
+*.log
+*.tmp
+*.temp
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Local environment files
+.env
+.env.local
+
+# IDE specific
+.classpath
+.project
+.settings
+*.sublime-project
+*.sublime-workspace
+
+# Gradle
+.gradle/
+gradlew
+gradlew.bat
+
+# Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Node (if using any build tools)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Python (if running tests with Python)
+__pycache__/
+*.py[cod]
+*.egg-info/
