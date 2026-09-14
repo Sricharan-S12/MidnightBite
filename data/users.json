@@ -1,0 +1,5 @@
+[
+  {"id":"U-100","username":"admin","password":"admin123","fullName":"Canteen Manager","rollNo":"STAFF-01","hostelBlock":"Canteen Office","roomNo":"G-01","phone":"9876543210","role":"ADMIN"},
+  {"id":"U-101","username":"student","password":"student123","fullName":"Rahul Sharma","rollNo":"21CS045","hostelBlock":"Block A","roomNo":"304","phone":"9812345678","role":"STUDENT"},
+  {"id":"U-102","username":"priya","password":"priya123","fullName":"Priya Verma","rollNo":"21EC089","hostelBlock":"Block C","roomNo":"108","phone":"9898765432","role":"STUDENT"}
+]

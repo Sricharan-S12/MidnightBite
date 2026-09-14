@@ -1,0 +1,12 @@
+[
+  {"id":"M-01","name":"Butter Cheese Maggi","category":"Maggi & Noodles","price":70.00,"description":"Classic 2-min Maggi loaded with Amul butter & melted cheese","isVegetarian":true,"isAvailable":true,"emoji":"🍜"},
+  {"id":"M-02","name":"Schezwan Egg Noodles","category":"Maggi & Noodles","price":90.00,"description":"Spicy wok-fried noodles with farm eggs & Schezwan sauce","isVegetarian":false,"isAvailable":true,"emoji":"🍝"},
+  {"id":"M-03","name":"Paneer Tikka Grilled Sandwich","category":"Sandwiches & Rolls","price":110.00,"description":"Triple layer toasted sandwich stuffed with spiced cottage cheese","isVegetarian":true,"isAvailable":true,"emoji":"🥪"},
+  {"id":"M-04","name":"Chicken Roll Special","category":"Sandwiches & Rolls","price":120.00,"description":"Juicy grilled chicken wrapped in crispy katha paratha","isVegetarian":false,"isAvailable":true,"emoji":"🌯"},
+  {"id":"M-05","name":"Midnight Combo Deal","category":"Late Night Specials","price":160.00,"description":"1x Butter Maggi + 1x Cold Coffee + 1x Veg Sandwich","isVegetarian":true,"isAvailable":true,"emoji":"🍱"},
+  {"id":"M-06","name":"Aloo Paratha (2 Pcs)","category":"Snacks","price":80.00,"description":"Served hot with curd, butter cube & spicy pickle","isVegetarian":true,"isAvailable":true,"emoji":"🫓"},
+  {"id":"M-07","name":"Thick Cold Coffee w/ Ice Cream","category":"Beverages","price":75.00,"description":"Creamy blended cold coffee topped with vanilla scoop","isVegetarian":true,"isAvailable":true,"emoji":"🧋"},
+  {"id":"M-08","name":"Hot Chocolate Fudge","category":"Desserts","price":95.00,"description":"Rich hot chocolate syrup poured over scoops of vanilla ice cream","isVegetarian":true,"isAvailable":true,"emoji":"🍨"},
+  {"id":"M-09","name":"Chai (Kulhad Special)","category":"Beverages","price":25.00,"description":"Steaming hot ginger cardamom tea served in traditional mud cup","isVegetarian":true,"isAvailable":true,"emoji":"☕"},
+  {"id":"M-10","name":"French Fries (Peri Peri)","category":"Snacks","price":85.00,"description":"Crispy golden french fries tossed in spicy Peri-Peri seasoning","isVegetarian":true,"isAvailable":true,"emoji":"🍟"}
+]
